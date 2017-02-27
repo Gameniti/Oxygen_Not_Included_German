@@ -331,7 +331,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.NAME"
 msgid "Lavatory Ready"
-msgstr ""
+msgstr "Toilette bereit"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.TOOLTIP"
@@ -341,7 +341,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.NAME"
 msgid "Lavatory In Use"
-msgstr ""
+msgstr "Toilette in benutzung"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.TOOLTIP"
@@ -16249,17 +16249,17 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT4"
 msgid "Digging holes..."
-msgstr ""
+msgstr "Grabe Löcher..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT5
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT5"
 msgid "Digging holes..."
-msgstr ""
+msgstr "Grabe Löcher..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT6
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT6"
 msgid "Digging holes..."
-msgstr ""
+msgstr "Grabe Löcher..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT7"
@@ -16399,7 +16399,7 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.LOADING
 msgctxt "STRINGS.UI.WORLDGEN.LOADING"
 msgid "Loading world..."
-msgstr ""
+msgstr "Lade Welt..."
 
 #. STRINGS.UI.WORLDGEN.NOHEADERS
 msgctxt "STRINGS.UI.WORLDGEN.NOHEADERS"
@@ -16414,122 +16414,122 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.PLACINGCREATURES
 msgctxt "STRINGS.UI.WORLDGEN.PLACINGCREATURES"
 msgid "Building the suspense..."
-msgstr ""
+msgstr "Baue Spannung auf..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING"
 msgid "Embedding metals..."
-msgstr ""
+msgstr "Lasse Metalle ein..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING1
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING1"
 msgid "Embedding metals..."
-msgstr ""
+msgstr "Lasse Metalle ein..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING2
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING2"
 msgid "Embedding metals..."
-msgstr ""
+msgstr "Lasse Metalle ein..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING3
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING3"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Begrabe wertvolle Erze..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING4
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING4"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Begrabe wertvolle Erze..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING5
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING5"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Begrabe wertvolle Erze..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING6
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING6"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Begrabe wertvolle Erze..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING7
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING7"
 msgid "Excavating tunnels..."
-msgstr ""
+msgstr "Grabe Tunnel..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING8
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING8"
 msgid "Excavating tunnels..."
-msgstr ""
+msgstr "Grabe Tunnel..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING9
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING9"
 msgid "Excavating tunnels..."
-msgstr ""
+msgstr "Grabe Tunnel..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSRIVERS
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSRIVERS"
 msgid "Pouring rivers..."
-msgstr ""
+msgstr "Fülle Flüsse auf..."
 
 #. STRINGS.UI.WORLDGEN.RESTARTING
 msgctxt "STRINGS.UI.WORLDGEN.RESTARTING"
 msgid "Rebooting..."
-msgstr ""
+msgstr "Starte neu..."
 
 #. STRINGS.UI.WORLDGEN.RETRYCOUNT
 msgctxt "STRINGS.UI.WORLDGEN.RETRYCOUNT"
 msgid "Oh dear, let's try that again."
-msgstr ""
+msgstr "Oh Gott, lass uns das nochmal versuchen."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM"
 msgid "Infusing oxygen..."
-msgstr ""
+msgstr "Fülle mit Sauerstoff..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM1
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM1"
 msgid "Infusing oxygen..."
-msgstr ""
+msgstr "Fülle mit Sauerstoff..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM2
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM2"
 msgid "Too much oxygen. Removing..."
-msgstr ""
+msgstr "Zu viel Sauerstoff. Entferne..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM3
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM3"
 msgid "Too much oxygen. Removing..."
-msgstr ""
+msgstr "Zu viel Sauerstoff. Entferne..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM4
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM4"
 msgid "Ideal oxygen levels achieved..."
-msgstr ""
+msgstr "Optimales Sauerstoff level erreicht..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM5
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM5"
 msgid "Ideal oxygen levels achieved..."
-msgstr ""
+msgstr "Optimales Sauerstoff level erreicht..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM6
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM6"
 msgid "Planting space flora..."
-msgstr ""
+msgstr "Pflanze Weltraum Pflanzen..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM7
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM7"
 msgid "Planting space flora..."
-msgstr ""
+msgstr "Pflanze Weltraum Pflanzen..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM8
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM8"
 msgid "Releasing wildlife..."
-msgstr ""
+msgstr "Setze Tiere aus..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM9
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM9"
 msgid "Releasing wildlife..."
-msgstr ""
+msgstr "Setze Tiere aus..."
 
 #. STRINGS.UI.WORLDGEN.SETUPNOISE
 msgctxt "STRINGS.UI.WORLDGEN.SETUPNOISE"
@@ -16539,54 +16539,54 @@ msgstr "BOOM!"
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Gefriere Eisformationen..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT1"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Gefriere Eisformationen..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT10"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Verstreue Sand..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT2"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Gefriere Eisformationen..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT3
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT3"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Gefriere Eisformationen..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT4"
 msgid "Melting magma..."
-msgstr ""
+msgstr "Schmelze Lava..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT5
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT5"
 msgid "Melting magma..."
-msgstr ""
+msgstr "Schmelze Lava..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT6
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT6"
 msgid "Melting magma..."
-msgstr ""
+msgstr "Schmelze Lava..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT7"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Verstreue Sand..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT8
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT8"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Verstreue Sand..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT9
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Verstreue Sand..."
